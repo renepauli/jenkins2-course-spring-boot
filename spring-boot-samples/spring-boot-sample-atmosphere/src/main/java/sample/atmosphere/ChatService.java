@@ -76,7 +76,5 @@ public class ChatService {
 				throw new IllegalStateException(ex);
 			}
 		}
-
 	}
-
 }
